@@ -10,8 +10,7 @@ La aplicación demuestra la capacidad de consumir servicios web heterogéneos y 
 * **Inteligencia Meteorológica:** Visualización de condiciones climáticas actuales con procesamiento de datos en tiempo real.
 * **Actualidad Informativa:** Despliegue de titulares de noticias de última hora mediante filtrado parametrizado.
 <br>
-<br>
-
+  
 ---
 
 ### Integrantes 
@@ -20,7 +19,7 @@ Hernández Torrez Alondra Vianney-1224100684
 Silva Solano Maria Gabriela-1224100716 
 
 ---
-<br>
+
 <br>
 
 # Integración de APIs
